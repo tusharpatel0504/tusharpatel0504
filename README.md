@@ -10,6 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharpatel0504&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+[![An image of @tusharpatel0504's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tusharpatel0504)](https://holopin.io/@tusharpatel0504)
 ![](https://github-profile-trophy.vercel.app/?username=tusharpatel0504&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
