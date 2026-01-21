@@ -51,9 +51,9 @@ Full-Stack Web Developer • Problem Solver • Lifelong Learner
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHIVA00202&show_icons=true&theme=dark" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SHIVA00202&theme=dark" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVA00202&layout=compact&theme=dark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tusharpatel0504&show_icons=true&theme=dark" height="165" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tusharpatel0504&theme=dark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharpatel0504&layout=compact&theme=dark" height="165" />
 </p>
 
 ---
