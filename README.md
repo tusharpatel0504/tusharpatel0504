@@ -64,7 +64,7 @@ Full-Stack Web Developer • Problem Solver • Lifelong Learner
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shiva-yadav-476660349/">
+  <a href="https://www.linkedin.com/in/tusharpatel10954/">
     <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/footer3.png" />
   </a>
 </p>
