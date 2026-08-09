@@ -1,170 +1,59 @@
-![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
-
 <h1 align="center">
-नमस्ते (Namaste), I'm Shiva Yadav 👋
+नमस्ते (Namaste), I'm Tushar Patel 👋
 </h1>
 
 <h3 align="center">
 Full-Stack Web Developer • Problem Solver • Lifelong Learner
 </h3>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=28&pause=1000&center=true&width=800&lines=Welcome+to+My+GitHub+Profile;Full-Stack+Web+Developer;Building+Scalable+Web+Applications;Always+Learning+Modern+Technologies;Let's+Build+Something+Meaningful"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I am a **passionate Full-Stack Web Developer** with hands-on experience in designing, developing, and deploying scalable web applications.  
-I enjoy solving real-world problems through **clean code, modern frameworks, and performance-driven architecture**.
-
-- 🔭 **Currently working on**  
-  Full-stack applications using **React.js, Node.js, Express, and MongoDB**, including real-time features like chat systems and room-based collaboration.
-
-- 👯 **Open to collaboration on**  
-  Open-source and production-level projects involving **React, REST APIs, and backend systems**.
- 
-
-- 🤝 **Seeking guidance in**  
-  Backend scalability, cloud-native architectures, and **CI/CD pipelines**.
-
-   <div align="right">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="30%" style="border-radius: 10px;" alt="Header GIF" />
+<div align="center">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%" style="border-radius: 10px;" alt="Header GIF" />
 </div>
 
-- 🌱 **Currently learning**  
-  **Next.js, TypeScript, Docker, and DevOps fundamentals**.
-
-- 💬 **Ask me about**  
-  Web development, JavaScript, frontend architecture, backend APIs, and UI/UX best practices.
-
-- ⚡ **Fun fact**  
-  I built a chess game from scratch — and the AI defeated me 😄
-
-<img
-  align="right"
-  alt="Coding"
-  width="260"
-  src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif"
-/>
-
----
-
-## 🌐 Portfolio
-
-🔗 **Live Website:**  
-https://shiva-yadav-website.vercel.app/
-
----
-
-## 🏆 Achievements & Badges
-
-<p align="center">
-  <a href="https://holopin.io/@shiva00202">
-    <img
-      src="https://holopin.me/shiva00202"
-      alt="Holopin Badges"
-      width="100%"
-    />
-  </a>
-</p>
-
----
-
-
-
-
-## 🏆 GitHub Trophies:
-![](https://hacked-github-stat-trophies.vercel.app/?username=shiva00202&theme=dracula&column=11)
-
----
+<h3>
+  I’m Tushar Patel, a passionate Full-Stack Web Developer who builds scalable, user-focused web applications using React.js, TypeScript, Node.js, Express, and MongoDB. I enjoy creating clean UI systems, integrating APIs, and developing real-world products with strong performance and modern architecture. I’m currently learning Next.js, Docker, and DevOps, and I’m open to collaborating on impactful full-stack and open-source projects.
+</h3>
 
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shiva-yadav-476660349/" target="_blank">
+  <a href="https://www.linkedin.com/in/tusharpatel10954/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/shivayadav2/" target="_blank">
+  <a href="https://leetcode.com/u/tushar789patel/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
-  <a href="https://shiva-yadav-website.vercel.app/" target="_blank">
+  <a href="https://tushar-patel.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### 💡 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+## 🏆 GitHub Trophies
+[![An image of @tusharpatel0504's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tusharpatel0504)](https://holopin.io/@tusharpatel0504)
+![](https://github-profile-trophy.vercel.app/?username=tusharpatel0504&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge)
-
-### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
-
- <img align="right" width="270" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
-
-### 🗄️ Databases & ORM
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
-
-
-### 🧩 State Management & Data Fetching
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge)
-
-
-
-### 🎨 UI / UX
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge)
-
-### ☁️ Cloud, DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
+
+
+## 🏆 GitHub Trophies:
+![](https://hacked-github-stat-trophies.vercel.app/?username=tusharpatel0504&theme=dracula&column=11)
+
+[![](https://visitcount.itsvg.in/api?id=tusharpatel0504&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHIVA00202&show_icons=true&theme=dark" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shiva00202&theme=dark" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVA00202&layout=compact&theme=dark" height="165" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=tusharpatel0504&show_icons=true&theme=dark" height="165" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tusharpatel0504&theme=dark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharpatel0504&layout=compact&theme=dark" height="165" />
 </p>
 
 ---
@@ -175,7 +64,8 @@ https://shiva-yadav-website.vercel.app/
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shiva-yadav-476660349/">
+  <a href="https://www.linkedin.com/in/tusharpatel10954/">
     <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/footer3.png" />
   </a>
 </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
